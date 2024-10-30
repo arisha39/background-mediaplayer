@@ -36,4 +36,4 @@ pip install keyboard
 
 ### Additional Requirements
 - **VLC Player**: [Download and install the VLC media player](https://www.videolan.org/vlc/).
-- **Microsoft C++ Build Tools**: Install Visual Studio with the **Desktop Development with C++** workload enabled.
+- **Microsoft C++ Build Tools**: [Install Visual Studio](https://visualstudio.microsoft.com/ru/visual-cpp-build-tools/) with the **Desktop Development with C++** workload enabled.
